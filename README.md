@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDE-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDE&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
