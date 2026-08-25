@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I'm Ascody
-
 ### Backend Developer
 
 **Java와 Spring을 중심으로 백엔드를 공부합니다.**
@@ -27,6 +25,7 @@ Here are some ideas to get you started:
 </a>
 <a href="TODO_BLOG_URL">
   <img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=velog&logoColor=20C997" alt="Blog" />
+</a>
 
 </div>
 
@@ -71,6 +70,12 @@ Here are some ideas to get you started:
 <a href="https://solved.ac/profile/tabbychiro">
   <img height="165" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tabbychiro" alt="tabbychiro solved.ac profile" />
 </a>
+&nbsp;
+<img
+  height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascody&theme=github_dark"
+  alt="ascody GitHub statistics"
+/>
 &nbsp;
 <img height="165" src="https://streak-stats.demolab.com/?user=ascody&theme=gotham&hide_border=true&locale=ko&background=0D1117&v=2" alt="ascody GitHub contribution streak" />
 
