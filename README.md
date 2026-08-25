@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 <br /><br />
 
-<!-- TODO: 실제 주소로 바꾸거나 사용하지 않는 배지는 삭제하세요. -->
-<a href="mailto:TODO_EMAIL">
+<a href="mailto:actaney@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
-<a href="TODO_BLOG_URL">
+<a href="ascody.github.io">
   <img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=velog&logoColor=20C997" alt="Blog" />
 </a>
 
