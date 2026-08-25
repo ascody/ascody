@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="mailto:actaney@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
-<a href="ascody.github.io">
+<a href="https://ascody.github.io">
   <img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=velog&logoColor=20C997" alt="Blog" />
 </a>
 
