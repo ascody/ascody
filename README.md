@@ -13,77 +13,68 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-작성 방법
-1. 이 파일에서 "TODO"를 검색해 본인 내용으로 바꿔 주세요.
-2. 사용하지 않는 섹션이나 배지는 과감히 삭제해 주세요.
-3. 완성한 내용을 ascody/ascody 저장소의 README.md에 붙여 넣으면 됩니다.
--->
+👋 Hi, I'm Ascody
 
-<div align="center">
+### Backend Developer
 
-# Ascody
+**Java와 Spring을 중심으로 백엔드를 공부합니다.**
 
-<br />
+<br /><br />
 
-<!-- TODO: 주소를 넣고, 사용하지 않는 배지는 삭제하세요. -->
+<!-- TODO: 실제 주소로 바꾸거나 사용하지 않는 배지는 삭제하세요. -->
 <a href="mailto:TODO_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 <a href="TODO_BLOG_URL">
-  <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Blog" />
-</a>
+  <img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=velog&logoColor=20C997" alt="Blog" />
 
 </div>
 
-## Tech Stack
+<br />
 
-<!-- 실제로 설명할 수 있는 기술만 남기는 편이 좋습니다. -->
+## 🧰 Skills
 
-### Main
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=light" alt="Main skills: Java and Spring" />
-</p>
+<strong>Main</strong><br />
 
-### Used
+<img src="https://skillicons.dev/icons?i=java,spring,idea&theme=dark"/><br />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,git,github,idea,vscode&theme=light" alt="Used skills: Python, Git, GitHub, IntelliJ IDEA, and Visual Studio Code" />
-</p>
+<strong>Used</strong><br />
 
-<!-- TODO: DB·인프라를 사용했다면 아이콘 ID를 추가하세요. 예: mysql,postgres,redis,docker,aws,githubactions -->
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,docker,git,github,vscode&theme=dark"/><br />
 
-## 프로젝트
+</div>
 
-<!-- 프로젝트마다 "문제 → 해결 → 내 기여 → 결과"가 한눈에 보이게 작성하세요. -->
+<!--
+<br />
 
-### 1. [추가예정](https://github.com/ascody/ascody) — 추가 예정
+## 🚀 Projects
 
-> YYYY.MM–YYYY.MM · 개인/팀 프로젝트 · 맡은 역할
+### 1. [프로젝트명](프로젝트_URL) — 한 줄 설명
 
-- **Problem:**
-- **Solution:**
-- **My contribution:**
-- **Result:**
-- **Stack:**
+> YYYY.MM–YYYY.MM · 개인/팀 프로젝트 · 역할
 
+- **Problem:** 해결하려고 했던 문제
+- **Solution:** 핵심 설계와 구현
+- **My contribution:** 직접 담당한 부분
+- **Result:** 수치, 테스트, 개선 결과 또는 배운 점
+- **Stack:** `Java` · `Spring Boot` · `MySQL`
+-->
 
-<!-- 대표성이 더 큰 프로젝트가 있다면 위 이름과 링크를 바꾸세요. 프로젝트는 2–3개면 충분합니다. -->
+<br />
 
-## Problem Solving & GitHub
+## 📊 Problem Solving & Activity
 
 <div align="center">
 
 <a href="https://solved.ac/profile/tabbychiro">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tabbychiro" alt="tabbychiro solved.ac profile" />
+  <img height="165" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=tabbychiro" alt="tabbychiro solved.ac profile" />
 </a>
-<img
-  height="165"
-  src="https://streak-stats.demolab.com/?user=ascody&theme=gotham&hide_border=true&locale=ko&background=0D1117"
-  alt="ascody GitHub contribution streak"
-/>
+&nbsp;
+<img height="165" src="https://streak-stats.demolab.com/?user=ascody&theme=gotham&hide_border=true&locale=ko&background=0D1117&v=2" alt="ascody GitHub contribution streak" />
 
 </div>
 
 <br />
+
