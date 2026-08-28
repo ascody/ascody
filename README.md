@@ -75,8 +75,6 @@ Here are some ideas to get you started:
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ascody&theme=github_dark"
   alt="ascody GitHub statistics"
 />
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com/?user=ascody&theme=gotham&hide_border=true&locale=ko&background=0D1117&v=3" alt="ascody GitHub contribution streak" />
 
 </div>
 
