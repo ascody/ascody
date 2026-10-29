@@ -1,35 +1,3 @@
-<!--
-**ascody/ascody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Backend Developer
-
-**Java와 Spring을 중심으로 백엔드를 공부합니다.**
-
-<br /><br />
-
-<a href="mailto:actaney@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-</a>
-<a href="https://ascody.github.io">
-  <img src="https://img.shields.io/badge/Blog-0D1117?style=flat-square&logo=velog&logoColor=20C997" alt="Blog" />
-</a>
-
-</div>
-
-<br />
-
 ## 🧰 Skills
 
 <div align="center">
